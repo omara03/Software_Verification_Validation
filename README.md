@@ -15,9 +15,13 @@ This project is a Selenium WebDriver test automation suite written in Java to va
 ### 🧱 Project Structure
 
 ├── Pages/ # Page Object Model (POM) classes
+
 ├── Tests/ # TestNG test classes
+
 ├── Utils/ # WebDriver setup and utility methods
+
 ├── testng.xml # TestNG suite configuration
+
 └── README.md # This file
 
 ## ⚙️ Setup Instructions
