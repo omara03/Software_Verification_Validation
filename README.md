@@ -19,7 +19,6 @@ This project is a Selenium WebDriver test automation suite written in Java to va
 ├── Utils/ # WebDriver setup and utility methods
 ├── testng.xml # TestNG suite configuration
 └── README.md # This file
----
 
 ## ⚙️ Setup Instructions
 
