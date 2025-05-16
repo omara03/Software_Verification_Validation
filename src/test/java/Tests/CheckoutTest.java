@@ -14,7 +14,7 @@ import java.time.Duration;
 public class CheckoutTest extends BaseTest {
 
     @Test
-    public void proceedToCheckoutTest() {
+    public void checkoutTest() {
         driver.get("https://demowebshop.tricentis.com/");
         test.info("Opened Demo Web Shop");
 

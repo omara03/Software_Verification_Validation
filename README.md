@@ -43,3 +43,24 @@ This project is a Selenium WebDriver test automation suite written in Java to va
    git clone https://github.com/omara03/Software_Verification_Validation
    cd Software_Verification_Validation
 
+
+validLoginTest
+![img_2.png](img_2.png)
+
+invalidLoginTest
+![img_3.png](img_3.png)
+
+searchTest
+![img_7.png](img_7.png)
+
+productFilterTest
+![img_5.png](img_5.png)
+
+cartTest
+![img.png](img.png)
+
+checkoutTest
+![img_1.png](img_1.png)
+
+verifyOrderConfirmationTest
+![img_6.png](img_6.png)

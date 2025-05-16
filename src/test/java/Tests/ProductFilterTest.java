@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class ProductFilterTest extends BaseTest {
 
     @Test
-    public void filterBooksByPriceTest() {
+    public void productFilterTest() {
         driver.get("https://demowebshop.tricentis.com/");
         test.info("Opened Demo Web Shop");
 

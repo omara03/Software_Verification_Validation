@@ -13,7 +13,7 @@ import java.time.Duration;
 public class CartTest extends BaseTest {
 
     @Test
-    public void removeProductFromCartTest() {
+    public void cartTest() {
         driver.get("https://demowebshop.tricentis.com/");
         test.info("Opened Demo Web Shop");
 

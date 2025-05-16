@@ -12,7 +12,7 @@ import java.time.Duration;
 public class SearchTest extends BaseTest {
 
     @Test
-    public void searchAndAddProductTest() {
+    public void searchTest() {
         driver.get("https://demowebshop.tricentis.com/");
         test.info("Opened Demo Web Shop");
 

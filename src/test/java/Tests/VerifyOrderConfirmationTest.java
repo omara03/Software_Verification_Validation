@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class VerifyOrderConfirmationTest extends BaseTest {
 
     @Test
-    public void placeOrderAsLoggedInUser() throws InterruptedException {
+    public void verifyOrderConfirmationTest() throws InterruptedException {
         // Step 1: Login
         LoginPage loginPage = new LoginPage(driver);
         loginPage.login("testuser78945@example.com", "Test@123");
