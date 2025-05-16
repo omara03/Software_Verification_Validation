@@ -40,5 +40,5 @@ This project is a Selenium WebDriver test automation suite written in Java to va
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/omara03/Software_Verification_Validation>
    cd <project-folder>
