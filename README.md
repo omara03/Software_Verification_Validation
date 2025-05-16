@@ -28,7 +28,7 @@ This project is a Selenium WebDriver test automation suite written in Java to va
 
 ### ✅ Prerequisites
 
-- Java JDK 17 or higher
+- Java JDK 23 or higher
 - Maven or IntelliJ IDEA with Maven support
 - Google Chrome browser
 - ChromeDriver matching your browser version
