@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ECommerceSuite" parallel="tests" thread-count="4"> <!-- Parallel execution of tests -->
+    <test name="ECommerceTest" parallel="classes" thread-count="4"> <!-- Parallel execution of test classes -->
+        <classes>
+            <class name="Tests.CartTest"/>
+            <class name="Tests.CheckoutTest"/>
+            <class name="Tests.InvalidLoginTest"/>
+            <class name="Tests.ProductFilterTest"/>
+            <class name="Tests.RegisterTest"/>
+            <class name="Tests.SearchTest"/>
+            <class name="Tests.ValidLoginTest"/>
+            <class name="Tests.VerifyOrderConfirmationTest"/>
+        </classes>
+    </test>
+</suite>

@@ -9,7 +9,7 @@ import java.util.UUID;
 public class RegisterTest extends BaseTest {
 
     @Test
-    public void userRegistrationTest() {
+    public void registrationTest() {
         test.info("Starting user registration test");
 
         try {
